@@ -1,0 +1,31 @@
+*.cache
+*.app
+build*
+tmp
+*.o
+*.pro.user
+*.pro.user.*
+Makefile
+
+#Project files
+[Bb]uild/
+[Dd]ebug/
+
+# Office Temp Files
+~$*
+docs/~$*
+docs/._*
+
+data/*
+bin/
+temp/
+temp/*.*
+public-libs/*
+*.orig
+*.jpg
+*.dll
+Log
+*.exe
+*.zip
+*.rar
+*.db
